@@ -6,6 +6,6 @@
 
 ![alt text](https://media-cdn.tripadvisor.com/media/photo-s/04/58/fc/bc/garvin-heights.jpg "View from atop Garvin Heights Park")
 
-[Levee Park] (https://www.cityofwinona.com/city-services/parks-recreation/levee-park-patio-levee-park/)
+[Levee Park](https://www.cityofwinona.com/city-services/parks-recreation/levee-park-patio-levee-park/)
 
 ![alt text](https://s3.amazonaws.com/visitwinona/wp-content/uploads/2018/06/17035004/levee-park-1.jpg "Levee Park")
