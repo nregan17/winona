@@ -1,2 +1,2 @@
 # winona
-[Click me to go to the Site Seeing page](https://www.google.com)
+[Click me to go to the Site Seeing page](https://nregan17.github.io/winona/site.md)
