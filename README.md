@@ -1,4 +1,4 @@
-# winona
+# Winona
 THIS IS FOR ACADEMIC PURPOSES ONLY
 ![alt text](https://www.exploreminnesota.com/memberimage.ashx?id=11200&width=800&mar=1)
 
